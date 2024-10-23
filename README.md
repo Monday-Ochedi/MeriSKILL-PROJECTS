@@ -1,12 +1,19 @@
-**Project: HR Data Analysis**
+# MeriSKILL PROJECTS
+A comprehensive report that encapsulates the essence of some intriguing projects offered by MeriSKILL. These projects, centered within the realm of data analytics, are meticulously designed to unravel patterns and insights concealed within intricate datasets.
 
+## Table of Content
+
+- [Project 1](#project-1)
+- [Project 2](#project-2)
+
+## Project 1
+**HR Data Analysis**
 *Data Visualization tool: Microsoft Power BI*
 
-OBJECTIVE:
-
+### OBJECTIVE:
 Find reasons for employee attrition, draw comparisons and gain insights that’ll help for better decision making.
 
-••• INSIGHTS GENERATED:
+### REPORTS CREATED:
 
 ![HR 1](https://github.com/Monday-Ochedi/MeriSKILL-PROJECTS/assets/158220466/f9cde581-4ba0-40a9-9548-91cd24f07718)
 
@@ -25,46 +32,28 @@ Find reasons for employee attrition, draw comparisons and gain insights that’l
 7. EMPLOYEE WELLNESSshows the level of job satisfaction, environment satisfaction as well as the overall work life balance
 8. 
 ![HR 5](https://github.com/Monday-Ochedi/MeriSKILL-PROJECTS/assets/158220466/bad8caa4-4081-48a9-bc0f-a115ec930a44)
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 
-**Project: Sales Data Analysis**
-
+## Project 2
+**Sales Data Analysis**
 *Data Visualization tool: Microsoft Power BI*
 
-OBJECTIVE:
+### OBJECTIVE:
 Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
-••• INSIGHTS GENERATED:
+### REPORT CREATED:
 
 ![Sales Analysis MeriSkill](https://github.com/Monday-Ochedi/MeriSKILL-PROJECTS/assets/158220466/fc3d05da-b6c7-429d-b99b-99cb1300f334)
 
 
-DATA TRANSFORMATION
+### Data Transformation
 
 1. First row as column header
 2. Checked and ensured correct Data Type for each column
 3. Split the datetime into date and time stamp
 4. Add conditional column
 
-DATA VISUALIZTION
+### Data Visualization
 
 1. Sales trend over time
 2. Best selling products
